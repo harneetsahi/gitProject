@@ -1,1 +1,1 @@
-conflict branch;
+feature1;
